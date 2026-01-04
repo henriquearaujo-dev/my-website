@@ -559,20 +559,23 @@ a:visited {
   width: 100%;
 }
 
+
 .about .about-container .about-info {
-  width: 100%;
+  width: 60rem;
+  margin: 0 auto;
   height: 100%;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .about .about-container .about-info h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   margin-bottom: 1rem;
 }
 
 .about .about-container .about-info p {
   font-size: 2rem;
-  line-height: 1.4;
+  line-height: 1.6;
+  margin-top: 1.6rem;
 }
 
 .about .about-container .about-info b {
