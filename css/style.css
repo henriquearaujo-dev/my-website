@@ -561,7 +561,7 @@ a:visited {
 
 
 .about .about-container .about-info {
-  width: 60rem;
+  max-width: 60rem;
   margin: 0 auto;
   height: 100%;
   padding: 1rem;
